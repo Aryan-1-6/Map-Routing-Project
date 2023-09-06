@@ -1,5 +1,10 @@
 # Routing - Mini Project
 
+![Screenshot 2023-09-07 025538](https://github.com/Aryan-1-6/Map-Routing-Project/assets/119154870/2e6134c0-76c3-464b-b272-8598c70ef331)
+
+
+
+
 ## Objective
 ---
    Implemented Dijkstra's algorithm in C to traverse the shortest path on a custom map with revised weights to consider indeterminable events during execution.
